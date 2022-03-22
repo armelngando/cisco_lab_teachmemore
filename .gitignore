@@ -1,0 +1,4 @@
+ *.[oa]
+*~
+# pas de fichier .a
+*.a
