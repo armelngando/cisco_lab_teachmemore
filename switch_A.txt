@@ -93,6 +93,7 @@ interface FastEthernet0/23
 interface FastEthernet0/24
 !
 interface GigabitEthernet0/1
+ switchport trunk native vlan 99
  switchport trunk allowed vlan 10,20
  switchport mode trunk
 !
